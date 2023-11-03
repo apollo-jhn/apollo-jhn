@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Bachelor of Science in Computer Engineering in Dr. Filemon C. Aguilar Memorial College - IT<br>- ⚡ In my free time I do code random stuff</p>
+<p align="left">I'm ... from ....<br>- 📚 I'm currently learning Bachelor of Science in Computer Engineering in Dr. Filemon C. Aguilar Memorial College - IT<br>- ⚡ In my free time I do code random stuff</p>
 
 ###
 
