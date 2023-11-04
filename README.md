@@ -1,3 +1,4 @@
+
 <div align="center">
   <img height="150" src="https://avatars.githubusercontent.com/u/91460490?v=4"  />
 </div>
@@ -7,6 +8,9 @@
 <div align="center">
   <a href="https://www.youtube.com/channel/UCavnsSQiD-lv5fszwUaUuYw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/john-apollo-ponteras-478036213" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedIn logo"  />
   </a>
   <a href="https://twitter.com/jhn_apol" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -24,27 +28,27 @@
 
 ###
 
-<h1 align="center">Welcome to my user profile! :></h1>
+<div align="center">
+	<h1>Welcome to my Profile</h1>
+</div>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Basic Information About Me</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br>- 📚 I'm currently learning Bachelor of Science in Computer Engineering in Dr. Filemon C. Aguilar Memorial College - IT<br>- ⚡ In my free time I do code random stuff</p>
+<p align="left">I'm John Apollo Ponteras,  from Las Piñas Philippines.<br>- 📚 I'm currently studying Bachelor of Science in Computer Engineering at Dr. Filemon C. Aguilar Memorial College - IT<br>- ⚡ I do love programming and most of the computer nerd stuff<br>
+- 👀 I enjoy crafting solutions using OOP principles for building software.<br>- ✨ My goal is to learn pretty much everything I'm interested in. Never stop learning, of course.
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools I use</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -52,8 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -81,3 +83,5 @@
 </div>
 
 ###
+
+<h3 align="center">Let's connect and collaborate on exciting projects! 🚀</h3>
