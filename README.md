@@ -27,7 +27,7 @@
 
 ---
 
-<h1 align="center">Hey there 👋, I'm John Apollo Ponteras!</h1>
+<h1 align="center">Hey there 👋, I'm apollo-jhn!</h1>
 
 ---
 
@@ -67,7 +67,6 @@ I don't believe in language wars—I use whatever tool gets the job done efficie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
 
-> 📊 **Top Languages on GitHub:** **JavaScript (51.3%)** | Visual Basic .NET (19.5%) | Python (15.8%) | C++ (9.1%)
 
 ---
 
@@ -85,7 +84,7 @@ I love projects where code meets the real world. Here are a couple of my favorit
 See what I've been building and the languages I'm pushing:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=apollo-jhn&theme=dark&hide_border=false&border_radius=5" height="200" alt="streak graph" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=apollo-jhn)](https://git.io/streak-stats)
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollo-jhn&layout=compact&theme=dark&hide_border=true" height="150" alt="top languages" />
 </div>
