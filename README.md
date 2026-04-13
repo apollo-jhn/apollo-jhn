@@ -84,7 +84,7 @@ I love projects where code meets the real world. Here are a couple of my favorit
 See what I've been building and the languages I'm pushing:
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=apollo-jhn)](https://git.io/streak-stats)
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=apollo-jhn&theme=dark" alt="GitHub Streak" /></a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollo-jhn&layout=compact&theme=dark&hide_border=true" width="400" alt="top languages" />
 </div>
