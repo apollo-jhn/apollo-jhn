@@ -85,8 +85,6 @@ See what I've been building and the languages I'm pushing:
 
 <div align="center">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=apollo-jhn&theme=dark" alt="GitHub Streak" /></a>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollo-jhn&layout=compact&theme=dark&hide_border=true" width="400" alt="top languages" />
 </div>
 
 ---
