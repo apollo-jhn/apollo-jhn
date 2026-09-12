@@ -5,25 +5,15 @@
   <p>Las Piñas, Philippines</p>
 
   <p>
-    <a href="https://www.linkedin.com/in/john-apollo-ponteras-478036213" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn" title="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:japollop.we@gmail.com">
-      <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email" title="Email" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://dev.to/apollo-jhn" target="_blank">
-      <img src="https://cdn.simpleicons.org/devdotto/0A0A0A/FFFFFF" height="32" alt="Dev.to" title="Dev.to: apollo-jhn" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://discord.com/users/apollocube" target="_blank">
-      <img src="https://cdn.simpleicons.org/discord/5865F2" height="32" alt="Discord (apollocube)" title="Discord: apollocube" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.youtube.com/channel/UCavnsSQiD-lv5fszwUaUuYw" target="_blank">
-      <img src="https://cdn.simpleicons.org/youtube/FF0000" height="32" alt="YouTube" title="YouTube" />
-    </a>
+    <a href="https://www.linkedin.com/in/john-apollo-ponteras-478036213" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn" title="LinkedIn" /></a>
+    <img width="12" />
+    <a href="mailto:japollop.we@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email" title="Email" /></a>
+    <img width="12" />
+    <a href="https://dev.to/apollo-jhn" target="_blank"><img src="https://cdn.simpleicons.org/devdotto/0A0A0A/FFFFFF" height="32" alt="Dev.to" title="Dev.to: apollo-jhn" /></a>
+    <img width="12" />
+    <a href="https://discord.com/users/apollocube" target="_blank"><img src="https://cdn.simpleicons.org/discord/5865F2" height="32" alt="Discord (apollocube)" title="Discord: apollocube" /></a>
+    <img width="12" />
+    <a href="https://www.youtube.com/channel/UCavnsSQiD-lv5fszwUaUuYw" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="32" alt="YouTube" title="YouTube" /></a>
   </p>
 
   <p>
