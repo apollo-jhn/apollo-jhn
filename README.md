@@ -6,19 +6,23 @@
 
   <p>
     <a href="https://www.linkedin.com/in/john-apollo-ponteras-478036213" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn" title="LinkedIn" />
     </a>
+    &nbsp;&nbsp;
     <a href="mailto:japollop.we@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email" title="Email" />
     </a>
-    <a href="https://twitter.com/jhn_apol" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    &nbsp;&nbsp;
+    <a href="https://dev.to/apollo-jhn" target="_blank">
+      <img src="https://cdn.simpleicons.org/devdotto/0A0A0A/FFFFFF" height="32" alt="Dev.to" title="Dev.to: apollo-jhn" />
     </a>
+    &nbsp;&nbsp;
+    <a href="https://discord.com/users/apollocube" target="_blank">
+      <img src="https://cdn.simpleicons.org/discord/5865F2" height="32" alt="Discord (apollocube)" title="Discord: apollocube" />
+    </a>
+    &nbsp;&nbsp;
     <a href="https://www.youtube.com/channel/UCavnsSQiD-lv5fszwUaUuYw" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    <a href="https://web.facebook.com/johnapollo.ponteras/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+      <img src="https://cdn.simpleicons.org/youtube/FF0000" height="32" alt="YouTube" title="YouTube" />
     </a>
   </p>
 
@@ -177,6 +181,8 @@ I choose the right tool for each project to keep systems fast, maintainable, and
   <h3>Ready to build something great? Let's connect! 🚀</h3>
   <p>
     <a href="mailto:japollop.we@gmail.com"><strong>japollop.we@gmail.com</strong></a> | 
-    <a href="https://www.linkedin.com/in/john-apollo-ponteras-478036213"><strong>LinkedIn Profile</strong></a>
+    <a href="https://www.linkedin.com/in/john-apollo-ponteras-478036213"><strong>LinkedIn Profile</strong></a> | 
+    <a href="https://dev.to/apollo-jhn"><strong>Dev.to Articles</strong></a> | 
+    <a href="https://discord.com/users/apollocube"><strong>Discord: apollocube</strong></a>
   </p>
 </div>
