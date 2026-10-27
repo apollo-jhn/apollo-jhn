@@ -3,6 +3,7 @@
   <h1>John Apollo Ponteras</h1>
   <p><strong>Full-Stack Developer | Backend & Cloud Infrastructure | BSCpE (Cum Laude)</strong></p>
   <p>Las Piñas, Philippines</p>
+  <p>🌐 <a href="https://apollo-jhn.vercel.app/" target="_blank"><strong>apollo-jhn.vercel.app</strong></a></p>
 
   <p>
     <a href="https://www.linkedin.com/in/john-apollo-ponteras-478036213" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn" title="LinkedIn" /></a>
@@ -32,6 +33,7 @@ I build secure backend services, modern web platforms, and cloud infrastructure.
 Because of my Computer Engineering training, I look at software with a systems-level perspective. I care about database efficiency, memory usage, network reliability, and clean architecture from low-level microcontrollers up to distributed cloud services.
 
 * 💡 **Philosophy:** If I can envision it, I can build it. I enjoy turning complex requirements into fast, working software that people can rely on.
+* 🌐 **Portfolio:** [John Apollo S. Ponteras | Software Engineer](https://apollo-jhn.vercel.app/)
 * 🔭 **Current Work:** Backend Developer at **Everion Platforms (Flair)**, building real-time APIs, WebSockets, and payment integrations.
 * 🏛️ **Past Leadership:** Former Information Officer I and Tech Lead in the **Office of the President - Climate Change Commission**, delivering public national web platforms and managing cloud infrastructure.
 * 🛡️ **Quality & Security:** Strong focus on automated testing (achieved ~99.5% test coverage across core apps) and application security (Fernet PII encryption at rest, custom device-fingerprint JWT auth, and SSL-secured database pools).
@@ -170,6 +172,7 @@ I choose the right tool for each project to keep systems fast, maintainable, and
 <div align="center">
   <h3>Ready to build something great? Let's connect! 🚀</h3>
   <p>
+    <a href="https://apollo-jhn.vercel.app/" target="_blank"><strong>Portfolio Website</strong></a> | 
     <a href="mailto:japollop.we@gmail.com"><strong>japollop.we@gmail.com</strong></a> | 
     <a href="https://www.linkedin.com/in/john-apollo-ponteras-478036213"><strong>LinkedIn Profile</strong></a> | 
     <a href="https://dev.to/apollo-jhn"><strong>Dev.to Articles</strong></a> | 
